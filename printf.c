@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <stdarg.h>
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 
 /**
  * buffer_const_char - puts constant format chars into buffer
